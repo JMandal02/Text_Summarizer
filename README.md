@@ -1,51 +1,46 @@
 # Text_Summarizer
-## Introduction
+<h3> Introduction </h3>
 
 Text Summarizer is a Python-based project designed to generate concise summaries from long-form text. Using Natural Language Processing (NLP) techniques, this tool extracts the most important information, providing a quick and efficient way to understand large amounts of content.
 
+---
 
-## Why Use a Personal Text Summarizer?
-- **Time-Saving** – Quickly extract key insights from lengthy documents.  
-- **Enhanced Productivity** – Helps in efficient reading and research.  
-- **Better Retention** – Focus on important details without unnecessary information.  
-- **Customizable Summaries** – Adjust the length and depth of summaries as needed.  
-- **Improved Understanding** – Simplifies complex information for easy comprehension.  
-- **Content Organization** – Helps in managing and categorizing large volumes of text.  
-- **Privacy & Security** – Keeps sensitive data within your control, unlike online summarizers.  
+<h3> Why Use a Personal Text Summarizer? </h3>
+<b>1.Time-Saving</b>– Quickly extract key insights from lengthy documents.<br>  
+<b>2.Enhanced Productivity</b> – Helps in efficient reading and research. <br> 
+<b>3.Better Retention</b>– Focus on important details without unnecessary information.  <br>
+<b>4.Customizable Summaries</b> – Adjust the length and depth of summaries as needed.  <br>
+<b>5.Improved Understanding</b> – Simplifies complex information for easy comprehension.  <br>
+<b>6.Content Organization</b>– Helps in managing and categorizing large volumes of text.  <br>
+<b>7.Privacy & Security</b>– Keeps sensitive data within your control, unlike online summarizers.  <br>
 
-# Features:
+---
+<h3> Features: </h3>
 
-1. Supports extractive text summarization.
+<b>1. Supports extractive text summarization.<br>
+<b>2. Utilizes NLP techniques for key sentence extraction.<br>
+<b>3. Can process plain text, documents, and web articles.<br>
+<b>4. Easy-to-use interface for summarization.<br>
+<b>5. Customizable summary length.<br>
 
-2. Utilizes NLP techniques for key sentence extraction.
+---
 
-3. Can process plain text, documents, and web articles.
+<h3>How to Run:</h3>
 
-4. Easy-to-use interface for summarization.
-
-5. Customizable summary length.
-
-
-
-## How to Run:
-
-Run the following command in your terminal:
-
-
+<br>Run the following command in your terminal:<br>
 ```text_summarizer.py```
 
-Enter the path to the text file: 
-
-let's suppose
-
+<b>Enter the path to the text file: <br>
+<b>let's suppose
 ```D:\Introduction to Machine Learning.txt```
 
-Then you have to **Enter the number of sentences for the summary** 
+<b>Then you have to Enter the number of sentences for the summary <br> 
 
-After that you get the summary of the text
+<b>After that you get the summary of the text
 
+---
 
-# Dependencies:
+<h3>Dependencies:</h3>
 
 **Python** 
 
@@ -53,11 +48,9 @@ After that you get the summary of the text
 
 **Transformers (for advanced summarization)**
 
-# Contributing
-
+----
+<h3>Contributing </h3>
 Contributions are welcome! Feel free to fork this repository, make your changes, and submit a pull request.
 
-# Contact
 
-For any inquiries or support, please contact jyotirmoymandal5050@gmail.com.
 
