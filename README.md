@@ -24,8 +24,11 @@ Text Summarizer is a Python-based project designed to generate concise summaries
 <b>5. Customizable summary length.<br>
 
 ---
+<h3> Important Point: </h3>
 
+```Introduction to Machine Learning```  is just a text file whice i used for make summary of the text file by using the python program. 
 
+---
 
 <h3>Dependencies:</h3>
 
