@@ -25,20 +25,7 @@ Text Summarizer is a Python-based project designed to generate concise summaries
 
 ---
 
-<h3>How to Run:</h3>
 
-<br>Run the following command in your terminal:<br>
-```text_summarizer.py```
-
-<b>Enter the path to the text file: <br>
-<b>let's suppose
-```D:\Introduction to Machine Learning.txt```
-
-<b>Then you have to Enter the number of sentences for the summary <br> 
-
-<b>After that you get the summary of the text
-
----
 
 <h3>Dependencies:</h3>
 
